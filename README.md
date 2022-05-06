@@ -74,4 +74,10 @@ To deploy this project run
 
 You have to wait till Strapi is fully built and ready to be used (deps installation can take some times)
 
+With the default configuration **and with Strapi fully installed** :
+ - Strapi : [http://cms.localhost](http://cms.localhost)
+ - NextJS : [http://localhost](http://localhost)
+ - MongoDB : [mongodb://strapi:strapi@127.0.0.1:27017/](mongodb://strapi:strapi@127.0.0.1:27017/)
+
+
 
