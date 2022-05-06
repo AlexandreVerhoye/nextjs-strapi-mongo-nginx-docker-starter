@@ -63,7 +63,7 @@ You can also modify the NGINX config for custom domain :
 }
 ```
 
-**Disclaimer : SSL AND HTTPS isn't coonfigured on this boilerplate**
+**Disclaimer : SSL AND HTTPS isn't configured on this boilerplate**
 
 ## Deployment
 
